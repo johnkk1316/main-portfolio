@@ -331,10 +331,9 @@ body.light-theme{
 }
 
 .home__img{
-    width: 300px;
     border-radius: 2rem 4rem 2rem 4rem;
-    width: 190px;
-    height: 293px;
+    width: 222px;
+    height: 250px;
 }
 
 .home__handle{
@@ -906,11 +905,11 @@ body.light-theme{
         flex-direction: column;
     }
     .home__handle{
-        width: 150px;
+        width: 170px;
         /* height: 253px; */
     }
     .home__img{
-        width: 160px;
+        width: 222px;
     }
 
     .about__info{
@@ -1129,10 +1128,10 @@ body.light-theme{
         top: 50%;
     }
     .home__handle{
-        width: 300px;
-        height: 600px; 
+        width: 250px;
+        height: 450px; 
     }
     .home__img{
-        width: 350px;
+        width: 300px;
     }
 }
