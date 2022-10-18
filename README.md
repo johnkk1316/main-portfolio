@@ -40,7 +40,7 @@ A-responsive-portfolio-website.
 To deploy this project run
 
 ```bash
- https://main-portfolio.pages.dev/#home
+https://johnsportfoliosite.netlify.app
 ```
 
 
